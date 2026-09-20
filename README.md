@@ -20,7 +20,7 @@ Le volume prévu est de **26 h de cours**, suivies de **4 h de TD de révision**
 L'examen sur table est actuellement prévu le **26 janvier 2027**, sous réserve de confirmation.
 
 | Date | Horaire | Type | Intervenant |
-|---|---|---|---|---:|
+|---|---|---|---:|
 | Lundi 21 septembre 2026 | 11h00–13h30 | NetConférence | O. Laverny |
 | Lundi 21 septembre 2026 | 14h30–18h30 | NetConférence | O. Laverny |
 | Lundi 28 septembre 2026 | 11h00–13h30 | NetConférence | O. Laverny |
