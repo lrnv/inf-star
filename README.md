@@ -10,7 +10,7 @@ Entre chaque séance, des exercices à préparer pour la fois suivante seront do
 ## Evaluation
 
 - Deux devoirs maisons sont a rendre sur Amétice
-    - Un premier sera disponible le Mercredi 30 septembre 2026 après le cours, à rendre le 7 octobre 2026 avant 23h59. 
+    - Un premier sera disponible le Mercredi 30 septembre 2026 après le cours, à rendre le **7 octobre 2026 avant 23h59**. 
     - Un second sera disponible le Jeudi 8 octobre 2026 après le cours, à rendre le dimanche 25 octobre 2026 avant 23h59.
 - Une examen final sur table (voir ci-dessous pour la date) d'une heure, sur papier, sans ordinateur et sans document.
 
