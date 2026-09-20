@@ -5,7 +5,7 @@ Chaque partie réunit un cours et des exercices, les corections seront fournies 
 
 ## Classe inversée
 
-Pour chaque séance, les exercices de la prochaine partie sont a préparer à la maison. 
+Entre chaque séance, des exercices à préparer pour la fois suivante seront donnés.
 
 ## Evaluation
 
@@ -19,15 +19,17 @@ Pour chaque séance, les exercices de la prochaine partie sont a préparer à la
 Le volume prévu est de **26 h de cours**, suivies de **4 h de TD de révision**.
 L'examen sur table est actuellement prévu le **26 janvier 2027**, sous réserve de confirmation.
 
-| Date | Horaire | Type | Intervenant | Durée |
-|---|---|---|---|---:|
-| Lundi 21 septembre 2026 | 11h00–13h30 | NetConférence | O. Laverny | 2h30 |
-| Lundi 21 septembre 2026 | 14h30–18h30 | NetConférence | O. Laverny | 4h00 |
-| Lundi 28 septembre 2026 | 11h00–13h30 | NetConférence | O. Laverny | 2h30 |
-| Lundi 28 septembre 2026 | 14h30–18h30 | NetConférence | O. Laverny | 4h00 |
-| Mercredi 30 septembre 2026 | 14h30–18h30 | NetConférence | O. Laverny | 4h00 |
-| Lundi 5 octobre 2026 | 11h00–13h30 | NetConférence | O. Laverny | 2h30 |
-| Lundi 5 octobre 2026 | 14h30–18h30 | NetConférence | O. Laverny | 4h00 |
-| Jeudi 8 octobre 2026 | 11h00–13h30 | NetConférence | O. Laverny | 2h30 |
-| Mercredi 4 novembre 2026 | 14h30–18h30 | TD de révision | L. Visonneau | 4h00 |
-| Mardi 26 janvier 2027 | 11h15–12h15 | Examen sur table *(horaire provisoire)* | — | 1h00 |
+| Date | Horaire | Type | Intervenant |
+|---|---|---|---:|
+| Lundi 21 septembre 2026 | 11h00–13h30 | NetConférence | O. Laverny |
+| Lundi 21 septembre 2026 | 14h30–18h30 | NetConférence | O. Laverny |
+| Lundi 28 septembre 2026 | 11h00–13h30 | NetConférence | O. Laverny |
+| Lundi 28 septembre 2026 | 14h30–18h30 | NetConférence | O. Laverny |
+| Mercredi 30 septembre 2026 | 14h30–18h30 | NetConférence | O. Laverny |
+| Lundi 5 octobre 2026 | 11h00–13h30 | NetConférence | O. Laverny |
+| Lundi 5 octobre 2026 | 14h30–18h30 | NetConférence | O. Laverny |
+| **Mercredi 7 octobre 2026** | **23h59** | **Deadline 1er devoir maison** | -- |
+| Jeudi 8 octobre 2026 | 11h00–13h30 | NetConférence | O. Laverny |
+| **Dimanche 25 octobre 2026** | **23h59** | **Deadline 2ème devoir maison** | -- |
+| Mercredi 4 novembre 2026 | 14h30–18h30 | TD de révision | L. Visonneau |
+| Mardi 26 janvier 2027 | 11h15–12h15 | Examen sur table *(horaire provisoire)* | — |
