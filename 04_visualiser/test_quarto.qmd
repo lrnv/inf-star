@@ -1,0 +1,20 @@
+---
+title: "Test Quarto"
+author: "Prénom NOM"
+format: typst
+---
+
+# Premier calcul
+
+Ce document mélange du texte et du code R.
+
+```{r}
+x <- c(2, 4, 6, 8)
+mean(x)
+```
+
+# Premier graphique
+
+```{r}
+plot(x, x^2)
+```
